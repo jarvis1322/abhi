@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\fireworks.js -> @lottiefiles/react-lottie-player\":{\"id\":\"pages\\\\fireworks.js -> @lottiefiles/react-lottie-player\",\"files\":[\"static/chunks/node_modules_lottiefiles_react-lottie-player_dist_lottie-react_esm_js.js\"]}}"
